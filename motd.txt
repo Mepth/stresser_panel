@@ -1,0 +1,5 @@
+Stresser KaloStrees, hello {2}
+You tarif - {0}, you max time booting - {1}
+Select methods:
+ 1. - KaloStress
+ 2. - Comming soon (NotWorking)
